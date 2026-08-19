@@ -9,6 +9,12 @@
   <sub>JAVA | AI Full-Stack</sub>
 </p>
 
+<p align="center">
+  <a href="https://halcyonsong.github.io">
+    <img src="https://img.shields.io/badge/Visit_My_Homepage-Live_Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage" />
+  </a>
+</p>
+
 ## Contribution Graph
 
 <div align="center">
