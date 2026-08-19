@@ -1,0 +1,58 @@
+[
+  {
+    "name": "singlestructure-template",
+    "description": "Spring Boot 单体架构脚手架",
+    "created_at": "2026-05-25T15:04:20Z",
+    "html_url": "https://github.com/Halcyonsong/singlestructure-template",
+    "language": "Java",
+    "stargazers_count": 0
+  },
+  {
+    "name": "cloudstructure-template",
+    "description": "基于 Spring Boot 3、Spring Cloud、Spring Cloud Alibaba 搭建的微服务框架学习项目，完成一套相对完整、可复用的微服务基础骨架。 项目采用多模块结构，核心包括 api-gateway、user-service、order-service 以及公共模块 common-core、common-web、common-mybatis。其中，api-gateway 负责统一入口、路由转发、Token 校验和身份透传；user-service 负责认证、用户管理以及远程调用门面；order-service 负责订单业务；公共模块则封装了统一返回结构、异常处理、拦截器、AOP 日志、MyBatis-Plus 配置等基础能力。 在中间件层面，项目接入了 Nacos ",
+    "created_at": "2026-06-07T01:55:55Z",
+    "html_url": "https://github.com/Halcyonsong/cloudstructure-template",
+    "language": "Java",
+    "stargazers_count": 0
+  },
+  {
+    "name": "sky-take-out",
+    "description": "No description",
+    "created_at": "2026-06-12T08:15:07Z",
+    "html_url": "https://github.com/Halcyonsong/sky-take-out",
+    "language": "Java",
+    "stargazers_count": 0
+  },
+  {
+    "name": "vector-repository",
+    "description": "基于 Spring Boot 3、Spring AI、Redis 和向量检索能力构建的智能知识库问答后端项目，主要实现了流式对话、会话管理、聊天记忆、历史归档、知识库文档上传与向量化、RAG 检索增强以及历史摘要压缩等功能。项目支持 txt、pdf、ppt、pptx 等文档接入，能够结合知识库内容进行上下文检索问答，并通过 Redis 统一管理会话、历史、摘要和相关状态，适合作为 AI 问答助手或私有知识库检索系统的后端基础方案。",
+    "created_at": "2026-07-10T01:27:44Z",
+    "html_url": "https://github.com/Halcyonsong/vector-repository",
+    "language": "Java",
+    "stargazers_count": 1
+  },
+  {
+    "name": "Desktop-Fairy",
+    "description": "基于桌面场景的 AI 助手应用，采用 Spring Boot + Spring AI + Vue3 + Electron 构建，支持多模型接入、多轮对话、Tool Calling、会话记忆、历史摘要压缩及受控工作空间访问。主要负责后端核心链路设计与实现。",
+    "created_at": "2026-07-16T16:14:52Z",
+    "html_url": "https://github.com/Halcyonsong/Desktop-Fairy",
+    "language": "Java",
+    "stargazers_count": 1
+  },
+  {
+    "name": "liteagent-template",
+    "description": "一个面向 AI Agent 与 LLM 集成的轻量级 Java 框架骨架，提供统一抽象、OpenAI 兼容对话支持，以及便于后续扩展流式、工具调用和 Agent 编排的模块化结构。",
+    "created_at": "2026-08-11T05:07:54Z",
+    "html_url": "https://github.com/Halcyonsong/liteagent-template",
+    "language": "Java",
+    "stargazers_count": 2
+  },
+  {
+    "name": "Halcyonsong",
+    "description": "No description",
+    "created_at": "2026-08-19T02:14:04Z",
+    "html_url": "https://github.com/Halcyonsong/Halcyonsong",
+    "language": "Vue",
+    "stargazers_count": 0
+  }
+]

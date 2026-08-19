@@ -281,10 +281,13 @@ function scrollRight() {
   width: 280px;
   flex-shrink: 0;
   min-height: 380px;
-  justify-content: center;
 }
 
 .timeline-dot {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   width: 14px;
   height: 14px;
   border-radius: 50%;
@@ -300,14 +303,18 @@ function scrollRight() {
   flex-direction: column;
   align-items: center;
   width: 100%;
+  position: absolute;
+  left: 0;
 }
 
 .card-slot.top {
-  margin-bottom: 12px;
+  bottom: 50%;
+  padding-bottom: 24px;
 }
 
 .card-slot.bottom {
-  margin-top: 12px;
+  top: 50%;
+  padding-top: 24px;
 }
 
 .connector {
