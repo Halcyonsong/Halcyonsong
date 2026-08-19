@@ -12,7 +12,13 @@
 ## Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="800" alt="3D Contribution Graph" />
+</div>
+
+### Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halcyonsong&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=500" alt="Top Languages" />
 </div>
 
 ## Tech Stack
