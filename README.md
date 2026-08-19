@@ -18,7 +18,7 @@
 ### Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halcyonsong&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=500" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Halcyonsong&layout=compact&langs_count=8&theme=graywhite&hide_border=true&card_width=500" alt="Top Languages" />
 </div>
 
 ## Tech Stack
